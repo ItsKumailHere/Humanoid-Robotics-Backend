@@ -1,0 +1,10 @@
+fastapi[standard]
+uvicorn[standard]
+google-generativeai
+cohere
+qdrant-client
+asyncpg
+python-dotenv
+pydantic
+pydantic-settings
+pytest

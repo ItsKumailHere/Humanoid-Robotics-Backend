@@ -1,0 +1,11 @@
+2025-12-19 09:18:24,711 - src.utils.logging_config - INFO - Logging configuration initialized
+2025-12-19 09:18:24,715 - src.utils.logging_config - INFO - Application startup complete
+2025-12-19 09:29:48,740 - src.utils.logging_config - INFO - Application shutdown initiated
+2025-12-19 12:02:11,021 - src.utils.logging_config - INFO - Logging configuration initialized
+2025-12-19 12:02:11,025 - src.utils.logging_config - INFO - Application startup complete
+2025-12-19 12:02:50,362 - src.utils.logging_config - INFO - Root endpoint accessed
+2025-12-19 12:04:07,771 - src.utils.logging_config - INFO - Logging configuration initialized
+2025-12-19 12:04:07,775 - src.utils.logging_config - INFO - Application startup complete
+2025-12-19 12:20:17,155 - src.utils.logging_config - INFO - Logging configuration initialized
+2025-12-19 12:20:17,165 - src.utils.logging_config - INFO - Application startup complete
+2025-12-19 12:42:39,299 - src.utils.logging_config - INFO - Application shutdown initiated

@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git/
+.mypy_cache/
+.pytest_cache/
+.hypothesis/
+
+# Environment
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+.env
+.env.local
+.env.*.local
+
+# Testing
+.pytest_cache/
+.coverage/
+htmlcov/
+.hypothesis/
+
+# Docs
+docs/_build/
+
+# Distribution
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+bin/
+include/
+lib/
+share/python/
+share/
+var/
+.wafpickle-*
+*.so
+
+# Jupyter
+.ipynb_checkpoints
+
+# Coverage
+.coverage*
+coverage/
+htmlcov/
+
+# Virtual Environment
+.envrc
+.flaskenv
+.python-version
+
+# Logs
+logs/
+*.log
+
+# Local development
+*.tmp
+tmp/
+temp/
